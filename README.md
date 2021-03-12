@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Magda</h1>
 <h3 align="center">A passionate web developer from Berlin</h3>
 
-- 🔭 I’m currently working on [queermed.info](http://www.queermed.info)
+- 🔭 I’m currently working on [queermed.info](https://github.com/clara-lupa/queermed)
 
 - 👨‍💻 All of my projects are available at [https://0000magda0000.github.io/profile/](https://0000magda0000.github.io/profile/)
 
