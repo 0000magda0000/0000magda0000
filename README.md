@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magda</h1>
-<h3 align="center">A passionate web developer from Berlin</h3>
+<h3 align="center">A web developer from Berlin</h3>
 
 - 🔭 I’m currently working on [queermed.info](https://github.com/clara-lupa/queermed)
 
