@@ -5,7 +5,7 @@
 
 - 📫 Reach me via [email](mailto:magda.barthofer@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+- 🪡 Connect with me
 <a href="https://linkedin.com/in/magdalenabarthofer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="magdalenabarthofer" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
